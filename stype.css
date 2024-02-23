@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(182, 222, 238);
+}
+
+.main{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.sub{
+    background-color: blueviolet;
+    color: aliceblue;
+}
